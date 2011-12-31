@@ -1,0 +1,13 @@
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Delicious.Tests.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Delicious.Tests.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\AutoMapper.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Delicious.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Delicious.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\AutoMapper.xml
+D:\dev\my\Delicious\Delicious\Delicious.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\my\Delicious\Delicious\Delicious.Tests\obj\Debug\Delicious.Tests.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\obj\Debug\Delicious.Tests.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\nunit.framework.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Moq.dll
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Moq.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Tests\bin\Debug\Moq.xml

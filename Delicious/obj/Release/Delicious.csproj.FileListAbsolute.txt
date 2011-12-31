@@ -1,0 +1,7 @@
+D:\dev\my\Delicious\Delicious\Delicious\bin\Release\Delicious.dll
+D:\dev\my\Delicious\Delicious\Delicious\bin\Release\Delicious.pdb
+D:\dev\my\Delicious\Delicious\Delicious\bin\Release\AutoMapper.dll
+D:\dev\my\Delicious\Delicious\Delicious\bin\Release\AutoMapper.xml
+D:\dev\my\Delicious\Delicious\Delicious\obj\Release\ResolveAssemblyReference.cache
+D:\dev\my\Delicious\Delicious\Delicious\obj\Release\Delicious.dll
+D:\dev\my\Delicious\Delicious\Delicious\obj\Release\Delicious.pdb

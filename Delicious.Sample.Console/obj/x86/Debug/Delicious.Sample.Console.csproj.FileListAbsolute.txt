@@ -1,0 +1,12 @@
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Delicious.Sample.Console.exe
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Delicious.Sample.Console.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\obj\x86\Debug\Delicious.Sample.Console.exe
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\obj\x86\Debug\Delicious.Sample.Console.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Delicious.dll
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Delicious.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Ninject.dll
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Ninject.pdb
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\Ninject.xml
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\AutoMapper.dll
+D:\dev\my\Delicious\Delicious\Delicious.Sample.Console\bin\Debug\AutoMapper.xml

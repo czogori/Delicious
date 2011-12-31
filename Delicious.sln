@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious", "Delicious\Delicious.csproj", "{61BA1745-7EB2-4D98-8BAC-492C53DF0019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Sample.Console", "Delicious.Sample.Console\Delicious.Sample.Console.csproj", "{96C22E61-D7DB-42A1-A761-D6965B63C095}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D099CB94-279F-48E0-8EAE-347BD39D6F0C}"
+	ProjectSection(SolutionItems) = preProject
+		LibrariesUsed.txt = LibrariesUsed.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delicious.Tests", "Delicious.Tests\Delicious.Tests.csproj", "{46CD90FF-CD77-4211-BC60-E0B228234266}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Delicious.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Debug|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Debug|Mixed Platforms.Build.0 = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{61BA1745-7EB2-4D98-8BAC-492C53DF0019}.Release|x86.ActiveCfg = Release|Any CPU
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Debug|x86.ActiveCfg = Debug|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Debug|x86.Build.0 = Debug|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Release|Any CPU.ActiveCfg = Release|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Release|Mixed Platforms.Build.0 = Release|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Release|x86.ActiveCfg = Release|x86
+		{96C22E61-D7DB-42A1-A761-D6965B63C095}.Release|x86.Build.0 = Release|x86
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{46CD90FF-CD77-4211-BC60-E0B228234266}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
